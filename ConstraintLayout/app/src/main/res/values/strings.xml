@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Constraint Layout</string>
+    <string name="titulo">Aprenda sobre edição de imagens</string>
+    <string name="data">10/05/2030</string>
+    <string name="texto">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut placerat orci nulla pellentesque dignissim enim. Massa sed elementum tempus egestas sed sed risus. Eu ultrices vitae auctor eu augue ut. Aliquam sem et tortor consequat id. Nunc mattis enim ut tellus. Enim lobortis scelerisque fermentum dui faucibus in ornare quam viverra. Viverra maecenas accumsan lacus vel facilisis volutpat. Vitae justo eget magna fermentum iaculis eu non diam. Amet nisl purus in mollis nunc sed id semper. Pellentesque nec nam aliquam sem et tortor consequat id porta. Pharetra sit amet aliquam id diam maecenas. Enim blandit volutpat maecenas volutpat. Netus et malesuada fames ac turpis egestas sed. Porttitor eget dolor morbi non arcu risus quis.</string>
+    <string name="nome">Matheus Oliveira</string>
+    <string name="anterior">Anterior</string>
+    <string name="proximo">Próximo</string>
+
+
+</resources>

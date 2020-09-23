@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F6980C</color>
+    <color name="colorPrimaryDark">#EDDAA1</color>
+    <color name="colorAccent">#1E3CE3</color>
+    <color name="botao_cadastro">#938825</color>
+    <color name="corFundo">#459DC5</color>
+    <color name="corTexto">#F60758</color>
+    <color name="corTitulo">#E4D018</color>
+</resources>
