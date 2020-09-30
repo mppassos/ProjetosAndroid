@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProgressBar.iml" filepath="$PROJECT_DIR$/.idea/modules/ProgressBar.iml" group="ProgressBar" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="ProgressBar/app" />
+    </modules>
+  </component>
+</project>
